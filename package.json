@@ -1,0 +1,21 @@
+{
+  "name": "HomePlus",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "^0.14.7",
+    "react-native": "^0.21.0",
+    "react-native-code-push": "^1.10.4-beta",
+    "react-native-swiper": "^1.4.3",
+    "react-redux": "^4.4.1",
+    "react-timer-mixin": "^0.13.3",
+    "redux": "^3.3.1",
+    "redux-thunk": "^2.0.1"
+  },
+  "devDependencies": {
+    "react-native-image-picker": "^0.18.3"
+  }
+}

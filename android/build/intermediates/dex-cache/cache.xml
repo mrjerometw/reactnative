@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jerome/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp/1.2.0/6c5c9380e245c4ff5be2b2a49dcbb0200c39798e/stetho-okhttp-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6c5c9380e245c4ff5be2b2a49dcbb0200c39798e">
+        <dex dex="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/pre-dexed/debug/stetho-okhttp-1.2.0-65b5e4596440f89a69c30081882a8f2773d26370.jar" />
+    </item>
+    <item
+        jar="/home/jerome/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-0061e38aac8638265e770fe5f54c3ee61806f544.jar" />
+    </item>
+    <item
+        jar="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.21.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="771892705d7958ec5a294a103a0e52e7f8d0bdc0">
+        <dex dex="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/pre-dexed/debug/classes-9f529e84b750339d60d82ba1627a5bdb2d6ab9c0.jar" />
+    </item>
+    <item
+        jar="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/pre-dexed/debug/classes-b431d95dd6ce25500541890a933c985be3997336.jar" />
+    </item>
+    <item
+        jar="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/pre-dexed/debug/classes-666a30e0bf843d682d36d71817a4a214c7ef9446.jar" />
+    </item>
+    <item
+        jar="/home/jerome/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/pre-dexed/debug/commons-cli-1.2-33e3193f130a6bfcc9e5dff1413c091477961358.jar" />
+    </item>
+    <item
+        jar="/home/jerome/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/pre-dexed/debug/okio-1.6.0-a3945d41d1933573828439ee38e80d2db54db235.jar" />
+    </item>
+    <item
+        jar="/home/jerome/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.2.0/1d6cdb8ce8185b8b23213fad48a83987fb6d2d67/stetho-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1d6cdb8ce8185b8b23213fad48a83987fb6d2d67">
+        <dex dex="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/pre-dexed/debug/stetho-1.2.0-07c3086cf8c334d08464c9e3a57f5033fdc78086.jar" />
+    </item>
+    <item
+        jar="/home/jerome/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-5e38bd40597796c93bb37a47b2964511c980b06c.jar" />
+    </item>
+    <item
+        jar="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/pre-dexed/debug/classes-3130df043e041abc69413ab6e1284aa7a4f61a01.jar" />
+    </item>
+    <item
+        jar="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/pre-dexed/debug/classes-7bf70cd0344723144ef017d027e70b1af80e118c.jar" />
+    </item>
+    <item
+        jar="/home/jerome/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-0ddfd10c0ecb4b15957deec5a0b312e7a83d633e.jar" />
+    </item>
+    <item
+        jar="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/pre-dexed/debug/classes-c120cb995774faaebb63cc23db79a8d7444ef552.jar" />
+    </item>
+    <item
+        jar="/home/jerome/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-7f1bc86df7d27d2b31d9d3aaaee77306ebd44eaf.jar" />
+    </item>
+    <item
+        jar="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.21.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ed5dc2d162c6a24aeaeb765bca63e2ee5171f8e">
+        <dex dex="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-444d48f9664293218ae1bb82eb9690d0fc044353.jar" />
+    </item>
+    <item
+        jar="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/pre-dexed/debug/classes-20f82291ff25d32fb9d2b32264dc7882350323c2.jar" />
+    </item>
+    <item
+        jar="/home/jerome/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-ed13474f023c58bd1ebba17489df9fa2ab4fe357.jar" />
+    </item>
+    <item
+        jar="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/pre-dexed/debug/classes-56f221a57939f7560464c95da328c0e0fc6db3cb.jar" />
+    </item>
+    <item
+        jar="/home/jerome/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.5.0/e9753b7dcae5deca92e871c5c759067070b07bc/okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.5.0-55b455674d4aaa5095cf0d9b6e9d9cb6d69cd604.jar" />
+    </item>
+    <item
+        jar="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/pre-dexed/debug/classes-a5ca43987cdc4216905d2da33f28d675ce33e5db.jar" />
+    </item>
+    <item
+        jar="/home/jerome/android_sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-58aa5401de6a6449aea6dc58f2a5cba932d9aa19.jar" />
+    </item>
+    <item
+        jar="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-c7874ec6d668f06f4c419612a50a5c3ba7d9f561.jar" />
+    </item>
+    <item
+        jar="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="/media/jerome/HHD/react_native_workspace/reactnativeJS_fragment_tabbar/android/app/build/intermediates/pre-dexed/debug/classes-967a862657106f298f1cfc4db7a42f081d96b958.jar" />
+    </item>
+
+</items>
